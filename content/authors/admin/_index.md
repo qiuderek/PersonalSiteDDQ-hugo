@@ -1,7 +1,7 @@
 ---
 title: Derek Qiu
 role: ""
-avatar_filename: donki2.jpg
+avatar_filename: donki.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
